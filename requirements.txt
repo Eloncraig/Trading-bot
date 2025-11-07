@@ -1,11 +1,6 @@
 Flask==2.3.3
-Werkzeug==2.3.7
-Jinja2==3.1.2
-qrcode==7.4.2
-Pillow==9.5.0
+qrcode[pil]==7.4.2
+Pillow==10.0.0
 requests==2.31.0
-web3==6.5.0
-pandas==1.5.3
-numpy==1.24.3
 psycopg2-binary==2.9.7
 gunicorn==21.2.0
